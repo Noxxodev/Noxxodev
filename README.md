@@ -2,16 +2,18 @@
 
 Bonjour je m'appelle noxxo je développe en lua sur Fivem est je créer principalement des script sous les librairies OX pour voir mon travail : https://discord.gg/eqnGm49xux
 
+- 🌱 J'apprends actuellement l'Overextended sur Fivem
+- 💬 Posez-moi des questions sur le développement de Fivem sous Overextended
 <!--
 **Noxxodev/Noxxodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
- 🌱 I’m currently learning Overextended
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
- 💬 Ask me about fivem development under Overextended
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
