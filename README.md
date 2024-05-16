@@ -6,7 +6,7 @@
 
 💡 Ma passion pour le développement m'a amené à créer des expériences de jeu uniques, et je suis toujours à l'affût de nouvelles idées pour enrichir notre communauté.
 
-🌟 ## Si tu souhaites me retrouver, voici quelques liens me concernant !
+🌟 Si tu souhaites me retrouver, voici quelques liens me concernant !
 <!--
 **Noxxodev/Noxxodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
