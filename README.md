@@ -1,12 +1,12 @@
 ### Noxxo Dev
 
-👨‍💻 # Salut ! Moi, c'est Noxxo. Développeur passionné depuis plusieurs années.
+👨‍💻 Salut ! Moi, c'est Noxxo. Développeur passionné depuis plusieurs années.
 
-🚀 # Je gère avec des amis un projet dénommé Wind Studio. Nous proposons une multitude de contenus, de scripts et de mappings pour FiveM, ainsi que des services de graphisme pour rendre vos projets encore plus captivants.
+🚀 Je gère avec des amis un projet dénommé Wind Studio. Nous proposons une multitude de contenus, de scripts et de mappings pour FiveM, ainsi que des services de graphisme pour rendre vos projets encore plus captivants.
 
-💡 # Ma passion pour le développement m'a amené à créer des expériences de jeu uniques, et je suis toujours à l'affût de nouvelles idées pour enrichir notre communauté.
+💡 Ma passion pour le développement m'a amené à créer des expériences de jeu uniques, et je suis toujours à l'affût de nouvelles idées pour enrichir notre communauté.
 
-🌟 # Si tu souhaites me retrouver, voici quelques liens me concernant !
+🌟 ## Si tu souhaites me retrouver, voici quelques liens me concernant !
 <!--
 **Noxxodev/Noxxodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
