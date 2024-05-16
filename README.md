@@ -1,9 +1,12 @@
 ### Noxxo Dev
 
-Bonjour je m'appelle noxxo je développe en lua sur Fivem est je créer principalement des script sous les librairies OX pour voir mon travail : https://discord.gg/eqnGm49xux
+👨‍💻 # Salut ! Moi, c'est Noxxo. Développeur passionné depuis plusieurs années.
 
-- 🌱 J'apprends actuellement l'Overextended sur Fivem
-- 💬 Posez-moi des questions sur le développement de Fivem sous Overextended
+🚀 # Je gère avec des amis un projet dénommé Wind Studio. Nous proposons une multitude de contenus, de scripts et de mappings pour FiveM, ainsi que des services de graphisme pour rendre vos projets encore plus captivants.
+
+💡 # Ma passion pour le développement m'a amené à créer des expériences de jeu uniques, et je suis toujours à l'affût de nouvelles idées pour enrichir notre communauté.
+
+🌟 # Si tu souhaites me retrouver, voici quelques liens me concernant !
 <!--
 **Noxxodev/Noxxodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
