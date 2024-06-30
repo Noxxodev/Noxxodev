@@ -1,12 +1,14 @@
 ### Noxxo Dev
 
-👨‍💻 Salut ! Moi, c'est Noxxo. Développeur passionné depuis plusieurs années.
+Salut, moi c'est Noxxo ! 👋
+Je suis développeur FiveM (non professionnel) et je propose mes créations ainsi que mon soutien pour vous aider à créer et développer vos projets sur FiveM.
 
-🚀 Je gère avec des amis un projet dénommé Wind Studio. Nous proposons une multitude de contenus, de scripts et de mappings pour FiveM, ainsi que des services de graphisme pour rendre vos projets encore plus captivants.
+Mon Projet : Wind Studio 🌟
+Je suis le créateur de Wind Studio, un projet qui a pour but de vous aider et de promouvoir mes créations.
 
-💡 Ma passion pour le développement m'a amené à créer des expériences de jeu uniques, et je suis toujours à l'affût de nouvelles idées pour enrichir notre communauté.
-
-🌟 Si tu souhaites me retrouver, voici quelques liens me concernant !
+Rejoignez-nous ! 🚀
+Si vous souhaitez nous rejoindre, voici un lien d'invitation pour notre serveur Discord :
+[Lien d'invitation](insérer le lien ici)
 <!--
 **Noxxodev/Noxxodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
