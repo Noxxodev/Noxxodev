@@ -17,7 +17,7 @@ J'aime créer des outils propres, optimisés et faciles à intégrer, et aider l
 
 ### 🛠️ Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql,vscode" />
 </p>
 
 ### 🚀 Rejoins-nous
