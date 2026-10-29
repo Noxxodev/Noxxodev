@@ -8,8 +8,8 @@
 ---
 
 ### 🧑‍💻 À propos
-Je développe des scripts, des mappings et des ressources pour **FiveM**.
-J'aime créer des outils propres, optimisés et faciles à intégrer, et aider les autres à monter leurs propres projets.
+Développeur FiveM spécialisé en **Lua**, je conçois des scripts et des ressources orientés performance et intégration simple.
+Au sein de **Wind Studio**, je m'occupe de toute la partie développement et j'accompagne des serveurs dans leurs projets, de l'idée à la mise en production.
 
 ### 🌟 Mes projets
 - **Wind Studio** : studio de développement FiveM (scripts, mappings, assets graphiques)
