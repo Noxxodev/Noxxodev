@@ -1,27 +1,25 @@
-# Noxxo Dev
+<h1 align="center">Salut, moi c'est Noxxo 👋</h1>
+<p align="center"><b>Développeur FiveM passionné · Co-fondateur de Wind Studio</b></p>
 
-# Salut, moi c'est Noxxo ! 👋
-Je suis développeur FiveM (non professionnel) et je propose mes créations ainsi que mon soutien pour vous aider à créer et développer vos projets sur FiveM.
+<p align="center">
+  <a href="https://discord.gg/7SBn6ygS87"><img src="https://img.shields.io/badge/Discord-Wind%20Studio-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
-# Mon Projet : Wind Studio 🌟
-Je suis le créateur de Wind Studio, un projet qui a pour but de vous aider et de promouvoir mes créations.
+---
 
-# Rejoignez-nous ! 🚀
-Si vous souhaitez nous rejoindre, voici un lien d'invitation pour notre serveur Discord :
-https://discord.gg/7SBn6ygS87
-<!--
-**Noxxodev/Noxxodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 À propos
+Je développe des scripts, des mappings et des ressources pour **FiveM**.
+J'aime créer des outils propres, optimisés et faciles à intégrer, et aider les autres à monter leurs propres projets.
 
-Here are some ideas to get you started:
+### 🌟 Mes projets
+- **Wind Studio** : studio de développement FiveM (scripts, mappings, assets graphiques)
+- **FlashPoint** : serveur roleplay militaire sur l'île fictive de Vektara
 
-- 🔭 I’m currently working on ...
+### 🛠️ Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql,vscode,git" />
+</p>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="left" alt="AWS" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> <img align="left" alt="AWS" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" style="padding-right:11px;" /> <img align="left" alt="AWS" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:11px;" /> <img align="left" alt="AWS" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:11px;" /> <img align="left" alt="AWS" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:11px;" />
+### 🚀 Rejoins-nous
+Une question, une commande ou juste envie de suivre nos créations ?
+👉 [Rejoindre le Discord](https://discord.gg/7SBn6ygS87)
